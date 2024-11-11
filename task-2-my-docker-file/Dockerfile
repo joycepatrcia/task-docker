@@ -20,4 +20,4 @@ COPY AUTHORS.md /AUTHORS.md
 EXPOSE 80
 
 # Jalankan aplikasi saat container mulai
-CMD ["/app/wise-word"]
+CMD ["/app/wise-word"]  
